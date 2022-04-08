@@ -105,10 +105,10 @@ export default function Login() {
         </span>
       </p>
       <h4>
-        © 2021 LinkedIn Clone by{" "}
-        <a href="https://www.linkedin.com/in/gianmarco-ebeling-856020135/">
+        © 2022 LinkedIn Clone by{" "}
+        <a href="https://www.linkedin.com/in/felix-tobechukwu-u-821768206/">
           {" "}
-          Gianmarco Ebeling
+          Felix
         </a>{" "}
       </h4>
     </div>
